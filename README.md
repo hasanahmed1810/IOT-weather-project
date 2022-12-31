@@ -1,4 +1,4 @@
-#IoT based Weather Station
+# IoT based Weather Station
 
 The equipment required for this project are:
 
@@ -12,7 +12,7 @@ The equipment required for this project are:
     Resistor
     tactile button
     USB A-B cable
-#Jupyter Notebook:
+# Jupyter Notebook:
 
   Provides an predictive analysis of islamabad's weather data by checking correlation between different factors affecting weather and using different ML models.
 # User-Instruction
