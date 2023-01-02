@@ -4,6 +4,3 @@
 # Automatically added based on includes:
 LiquidCrystal
 DHT sensor library
-Esp32WifiManager
-ESPAsyncTCP
-ESPAsyncWebSrv
