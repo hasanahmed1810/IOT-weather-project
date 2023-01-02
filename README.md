@@ -5,7 +5,6 @@ The equipment required for this project are:
     Arduino
     DHT11 Sensor
     LCD Display
-    ESP32 Module
     Breadboard
     Jumper Wires
     10k OHM Potentiometer
